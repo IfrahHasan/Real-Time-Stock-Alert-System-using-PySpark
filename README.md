@@ -15,30 +15,21 @@ This project showcases a real-time data streaming pipeline that captures, proces
 Using the Telegram Bot API, the pipeline sends alerts directly to a specified Telegram channel. This ensures that analysts, traders, and other stakeholders are promptly informed of important market events. The bot is configured to send messages whenever predefined conditions are met, and the process can be easily customized by adjusting alert thresholds or adding new analytics.
 
 **Project Structure**  
+
 Project Structure:
 
-real-time-stock-pipeline/
-├── README.md           # Project overview and setup instructions
-├── requirements.txt    # Dependencies for running the project
-├── LICENSE             # Open source license
-├── notebooks/          # Colab notebook or Jupyter notebooks
-│   └── main_pipeline.ipynb  # The primary data pipeline notebook
-├── data/               # Data and logs
-│   ├── logs/           # Anomaly logs
-│   └── historical/     # Historical data files
-└── reports/            # Output reports
-    └── daily_report.pdf
-real-time-stock-pipeline/
-├── README.md           # Project overview and setup instructions
-├── requirements.txt    # Dependencies for running the project
-├── LICENSE             # Open source license
-├── notebooks/          # Colab notebook or Jupyter notebooks
-│   └── main_pipeline.ipynb  # The primary data pipeline notebook
-├── data/               # Data and logs
-│   ├── logs/           # Anomaly logs
-│   └── historical/     # Historical data files
-└── reports/            # Output reports
-    └── daily_report.pdf
+- real-time-stock-pipeline/
+  - README.md: Project overview and setup instructions
+  - requirements.txt: Dependencies for running the project
+  - LICENSE: Open source license
+  - notebooks/: Colab notebook or Jupyter notebooks
+    - main_pipeline.ipynb: The primary data pipeline notebook
+  - data/: Data and logs
+    - logs/: Anomaly logs
+    - historical/: Historical data files
+  - reports/: Output reports
+    - daily_report.pdf: Example end-of-day report
+
 
 
 **Getting Started**  
