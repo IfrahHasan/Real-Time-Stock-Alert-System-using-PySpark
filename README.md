@@ -28,6 +28,17 @@ real-time-stock-pipeline/
 │   └── historical/     # Historical data files
 └── reports/            # Output reports
     └── daily_report.pdf
+real-time-stock-pipeline/
+├── README.md           # Project overview and setup instructions
+├── requirements.txt    # Dependencies for running the project
+├── LICENSE             # Open source license
+├── notebooks/          # Colab notebook or Jupyter notebooks
+│   └── main_pipeline.ipynb  # The primary data pipeline notebook
+├── data/               # Data and logs
+│   ├── logs/           # Anomaly logs
+│   └── historical/     # Historical data files
+└── reports/            # Output reports
+    └── daily_report.pdf
 
 
 **Getting Started**  
