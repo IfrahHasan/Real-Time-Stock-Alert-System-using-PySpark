@@ -1,4 +1,4 @@
-# Real-Time Stock Data Pipeline with PySpar
+# Real-Time Stock Data Pipeline with PySpark
 
 **Overview**  
 This project showcases a real-time data streaming pipeline that captures, processes, and analyzes stock market data in near-real-time. By leveraging PySpark’s distributed processing capabilities and integrating a Telegram Bot for instant alerts, this pipeline demonstrates how to efficiently handle financial time-series data at scale.
